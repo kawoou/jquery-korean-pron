@@ -1426,6 +1426,10 @@ var testCase = [
     [
         '위백키과의 우뇽은 빏옇릷 단쳬읜 윜희믜듸어 잷닩읿 하고 있닯. 2016뇬 5월 긔준, 용어판 532맍엷 갧, 한구거판 465,238걜흘 븰호타요 300엷 언판어을 합하묜 4천만 갧 의상의 긅읿 숣롞됣얿 의쓰묘 꿃줁힓 성장하고 있닯. 윏킯밲괇읣 저자꿔는 클희예의틔브 커먼즈 라의선스와 GNU 잛윫 묹섧읣 2중 라의선슬흘 딸흔다. 듀 랇읿섡슯 몳둛 잛윫 콙텑츫릁 위한 겄읇롧 잁젛핝 욟걵읉 갅춟멵 삷욯엛 졔야글 받즤 않늕닯.',
         'wibaekkigwaui unyongeun bilpyeohrilp danchyeuin wikhuimuiduieo jaelpdanjilp hago issdalp. 2016nyon 5wol guijun, yongeopan 532manjyeolp gaelp, hangugeopan 465,238gyaelheul builhotayo 300yeolp eonpaneoeul haphamyon 4cheonman gaelp uisangui geultilp sulprokkdoelpeolp uisseumyo kkulpjunjhilp seongjanghago issdalp. wilpkilpbaekkgwalpuilp jeojakkwoneun keulhuiyeuituibeu keomeonjeu rauiseonseuwa kNU jalpyulp munjseolpuilp 2jung rauiseonseulheul ttalheunda. dyu ralpilpseonjseulp molpdulp jalpyulp konjtenjcheulpreult wihan geosseulprolp iltjeohhant yolpgeonjeult ganjchulpmyeont salpyohelp jyeyageul batjui anhneunjdalp.'
+    ],
+    [
+        '안녕하세요 반갑습니다',
+        'annyeonghaseyo bangapseupnida'
     ]
 ];
 
