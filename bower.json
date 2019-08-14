@@ -1,0 +1,36 @@
+{
+  "name": "jquery-korean-pron",
+  "description": "A simple pronunciation conversion library for Korean.",
+  "version": "0.1.0",
+  "main": "dist/jquery.korean-pron.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "*.md",
+    "*.json"
+  ],
+  "keywords": [
+    "hangul",
+    "korean",
+    "pron",
+    "pronunciation",
+    "convert",
+    "conversion",
+    "latin",
+    "alphabet"
+  ],
+  "authors": [{
+    "name": "kawoou",
+    "email": "kawoou@kawoou.kr"
+  }],
+  "homepage": "https://github.com/kawoou/jquery-korean-pron",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kawoou/jquery-korean-pron.git"
+  },
+  "dependencies": {
+    "jquery": ">=1.0.0"
+  }
+}

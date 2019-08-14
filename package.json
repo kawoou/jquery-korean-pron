@@ -1,0 +1,47 @@
+{
+  "name": "jquery-korean-pron",
+  "version": "0.1.0",
+  "description": "A simple pronunciation conversion library for Korean.",
+  "main": "src/jquery.korean-pron.js",
+  "scripts": {
+    "validate": "gulp validate",
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "test": "mocha",
+    "coverage": "node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kawoou/jquery-korean-pron.git"
+  },
+  "keywords": [
+    "hangul",
+    "korean",
+    "pron",
+    "pronunciation",
+    "convert",
+    "conversion",
+    "latin",
+    "alphabet"
+  ],
+  "author": "kawoou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kawoou/jquery-korean-pron/issues"
+  },
+  "homepage": "https://github.com/kawoou/jquery-korean-pron",
+  "dependencies": {
+    "jquery": ">=1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-header": "^2.0.9",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "istanbul": "^0.4.5",
+    "jshint": "^2.10.2",
+    "jshint-stylish": "^2.2.1",
+    "mocha": "^6.2.0"
+  }
+}
