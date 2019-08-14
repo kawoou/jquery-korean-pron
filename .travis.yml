@@ -6,6 +6,6 @@ before_install:
 install:
 - npm install
 script:
-- ./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha --reporter lcovonly -- -R spec
+- npm run coverage
 after_script:
 - codecov
